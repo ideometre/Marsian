@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-primer
 title: Marsian
 description: Debian portage on Marsboard
-logo: http://www.haoyuelectronics.com/Attachment/Marsboard%20Dev%20Kit/Marsboard/A20.jpg
-show_downloads: false
 google_analytics: UA-143672565-1
